@@ -3,7 +3,7 @@
 
 <https://zhaoju.cc>
 
-<https://duanjutj.github.io>
+<https://duanjudaquan.github.io>
 
 **duanjudaquan/duanjudaquan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
